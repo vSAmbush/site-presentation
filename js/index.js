@@ -2,7 +2,7 @@ function setSecondSlideContent() {
 	let strings = [
 		{
 			black: [
-				'Архитектура&nbsp;сайта&nbsp;-&nbsp;структур',
+				'Архитектура&nbsp;сайта&nbsp;&mdash;&nbsp;структур',
 				'сайта.&nbsp;В&nbsp;нее&nbsp;входит&nbsp;навигация,',
 				'страницы&nbsp;категорий,&nbsp;файл',
 				'Архитектура&nbsp;помогает&nbsp;визуальн',
@@ -18,7 +18,7 @@ function setSecondSlideContent() {
 		},
 		{
 			black: [
-				'Архитектура&nbsp;сайта&nbsp;-&nbsp;структу',
+				'Архитектура&nbsp;сайта&nbsp;&mdash;&nbsp;структу',
 				'части&nbsp;сайта.&nbsp;В&nbsp;нее&nbsp;входит',
 				'«хлебные&nbsp;крошки»,&nbsp;страниц',
 				'сайта&nbsp;и&nbsp;так&nbsp;далее.&nbsp;Архите',
